@@ -1,0 +1,16 @@
+Parameter,Parameter Value,Hyperparameter,Value,Metric,Metric Value
+intercept,1.46154487006321,C,1,Recall,1.0
+,,class_weight,None,accuracy,1.0
+,,dual,0,f1,1.0
+,,fit_intercept,1,precision,1.0
+,,intercept_scaling,1,,
+,,l1_ratio,None,,
+,,max_iter,100,,
+,,multi_class,deprecated,,
+,,n_jobs,None,,
+,,penalty,l2,,
+,,random_state,9,,
+,,solver,lbfgs,,
+,,tol,0.0001,,
+,,verbose,0,,
+,,warm_start,0,,
